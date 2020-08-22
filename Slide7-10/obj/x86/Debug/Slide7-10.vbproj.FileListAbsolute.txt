@@ -1,0 +1,12 @@
+C:\Users\yasmeen\Desktop\UREP\Slide7-10\Slide7-10\bin\Debug\Slide7-10.exe
+C:\Users\yasmeen\Desktop\UREP\Slide7-10\Slide7-10\bin\Debug\Slide7-10.pdb
+C:\Users\yasmeen\Desktop\UREP\Slide7-10\Slide7-10\bin\Debug\Slide7-10.xml
+C:\Users\yasmeen\Desktop\UREP\Slide7-10\Slide7-10\obj\x86\Debug\Slide7_10.Form1.resources
+C:\Users\yasmeen\Desktop\UREP\Slide7-10\Slide7-10\obj\x86\Debug\Slide7_10.Resources.resources
+C:\Users\yasmeen\Desktop\UREP\Slide7-10\Slide7-10\obj\x86\Debug\Slide7-10.vbproj.GenerateResource.Cache
+C:\Users\yasmeen\Desktop\UREP\Slide7-10\Slide7-10\obj\x86\Debug\Slide7-10.exe
+C:\Users\yasmeen\Desktop\UREP\Slide7-10\Slide7-10\obj\x86\Debug\Slide7-10.xml
+C:\Users\yasmeen\Desktop\UREP\Slide7-10\Slide7-10\obj\x86\Debug\Slide7-10.pdb
+C:\Users\yasmeen\Desktop\UREP\Slide7-10\Slide7-10\obj\x86\Debug\Slide7_10.Form2.resources
+C:\Users\yasmeen\Desktop\UREP\Slide7-10\Slide7-10\obj\x86\Debug\Slide7_10.Form3.resources
+C:\Users\yasmeen\Desktop\UREP\Slide7-10\Slide7-10\obj\x86\Debug\Slide7_10.Form4.resources
